@@ -7,7 +7,7 @@ public class var_1 {
 		
 		System.out.println("HELLO~");
 		System.out.println("HELLO~");
-		System.out.println("HELLO~");
+		
 	}
 
 }
