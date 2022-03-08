@@ -20,6 +20,7 @@ public class Operator_5 {
 		String str1 = new String("±è¹ÎÇÐ");
 		String str2 = new String("±è¹ÎÇÐ");
 		
+		
 		System.out.println(str1==str2);
 		System.out.println(str1.equals(str2));
 		
