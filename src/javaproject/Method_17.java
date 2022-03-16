@@ -28,7 +28,7 @@ public class Method_17 {
 		int total =Method_17.mul(200, 300);
 		System.out.println(total);
 		
-		
+	
 		
 		
 	}

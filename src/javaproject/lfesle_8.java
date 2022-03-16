@@ -34,7 +34,7 @@ public class lfesle_8 {
 			System.out.println("비만 입니다." + bmi);
 		}
 	
-	
+
 	
 	
 	
