@@ -18,6 +18,7 @@ public class Computer_24 {
 		for (int i = 0; i < values.length; i++) {
 			System.out.print("values[" + i + "]" + "= ");
 			values[i] = sc.nextInt();
+			
 		}
 
 		for (int i = 0; i < values.length; i++) {
@@ -29,7 +30,10 @@ public class Computer_24 {
 		ComputerClass com = new ComputerClass();
 
 		System.out.println("출력된 합산 값은 : " + com.sum(values));
+		System.out.println("출력된 합산 값은 : " + com.sum(values));
 
+		
+		
 		sc.close();
 		
 	}
